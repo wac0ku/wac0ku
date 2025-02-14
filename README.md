@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves to c
 - 👯 I’m looking to collaborate on open-source projects that can make a positive impact.
 - 🤔 I’m looking for help with machine learning and artificial intelligence projects.
 - 💬 Ask me about software development, best coding practices, and open-source contributions.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
-- ⚡ Fun fact: I love hiking and exploring the great outdoors!
+- 📫 How to reach me: [Email](mailto:l.gajtner@gmail.com)
+- ⚡ Fun fact: I love video games, Martial Arts, making music and being outdoor.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript, Java, C++
+- **Languages**: Python, C++, Haskell (only educational purpose)
 - **Frameworks**: React, Node.js, Django, Flask
 - **Tools**: Git, Docker, Kubernetes, Jenkins
 - **Databases**: MySQL, PostgreSQL, MongoDB
