@@ -11,10 +11,11 @@ I build **AI automation systems and multi-agent tools** — and I build them in 
 ## 🚢 Recent progress <sub>(auto-updated every Monday)</sub>
 
 <!-- PROGRESS:START -->
-_Last 30 days (updated 2026-07-23):_ **5 commits** across **2 repo(s)** · new repo(s): fastapi-issue-hive
+_Last 30 days (updated 2026-07-27):_ **6 commits** across **3 repo(s)** · new repo(s): sbom-guard, fastapi-issue-hive
 
-- **[wac0ku](https://github.com/wac0ku/wac0ku)** — 4 commit(s), latest: “fix: query repos/commits directly instead of the laggy events feed” (Jul 23)
-- **[fastapi-issue-hive](https://github.com/wac0ku/fastapi-issue-hive)** — 1 commit(s), latest: “feat: FastAPI Issue Hive — initial release” (Jul 23)
+- **[sbom-guard](https://github.com/wac0ku/sbom-guard)** — 3 commit(s), latest: “Phase 0: Regeln gegen Primaerquelle (TR-03183-2 v2.1.0) verifizieren” (Jul 25)
+- **[fastapi-issue-hive](https://github.com/wac0ku/fastapi-issue-hive)** — 2 commit(s), latest: “build: migrate to Poetry with lock file” (Jul 23)
+- **[wac0ku](https://github.com/wac0ku/wac0ku)** — 1 commit(s), latest: “docs(profile): AI automation focus with automated build-in-public progress” (Jul 23)
 <!-- PROGRESS:END -->
 
 ## 📓 Build log
