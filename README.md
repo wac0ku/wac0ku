@@ -11,10 +11,7 @@ I build **AI automation systems and multi-agent tools** — and I build them in 
 ## 🚢 Recent progress <sub>(auto-updated every Monday)</sub>
 
 <!-- PROGRESS:START -->
-_Last 30 days (updated 2026-08-24):_ **14 commits** across **2 repo(s)** · new repo(s): sbom-guard
-
-- **[fastapi-issue-hive](https://github.com/wac0ku/fastapi-issue-hive)** — 11 commit(s), latest: “fix: reorganize directory structure for better clarity” (Jul 28)
-- **[sbom-guard](https://github.com/wac0ku/sbom-guard)** — 3 commit(s), latest: “Phase 0: Regeln gegen Primaerquelle (TR-03183-2 v2.1.0) verifizieren” (Jul 25)
+_Last checked 2026-08-31 — a quiet 30 days. Next update lands here automatically._
 <!-- PROGRESS:END -->
 
 ## 📓 Build log
